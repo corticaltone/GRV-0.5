@@ -26,7 +26,7 @@ pycurl==7.19.3
 pyparsing==2.1.10
 python-sql==0.8
 pytz==2016.7
-requests==2.2.1
+requests==2.20.0
 requests-oauthlib==0.7.0
 six==1.10.0
 sql==0.4.0
